@@ -14,7 +14,8 @@ Backend, Cloud, DevOps, Security 영역에서 경험을 쌓고 있습니다.
 | --- | --- | --- |
 | CCLAB 학부 연구생 | 2023.01 ~ 2025.03 | 인천대학교 사이버보안 연구실 학부연구생으로 활동했습니다. |
 | AhnLab PatchLAB 인턴 | 2025.06 ~ 2025.12 | 안랩 PatchLAB 장기현장실습 인턴으로 근무했습니다. |
-| SKALA Cloud 1기 | 2025.12 ~ 현재 | KDT Training SKALA Cloud 1기로 클라우드 역량을 확장하고 있습니다. |
+| SKALA Cloud 1기 | 2025.12 ~ 2026.06 | KDT Training SKALA Cloud 1기로 클라우드 역량을 확장하고 있습니다. |
+| Softeer 8기 웹백엔드 | 2026.07 ~ 2026.08 | 현대차/기아의 웹 백엔드 교육으로 Spring과 웹 역량을 확장하고 있습니다. |
 
 <br>
 
